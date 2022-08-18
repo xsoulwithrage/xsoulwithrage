@@ -20,6 +20,6 @@ Mis redes sociales:
 --!>
 
 
-<img align="center" width="200" src="![codigos](https://user-images.githubusercontent.com/101188188/185450624-0d9da2d1-667e-4903-90ff-691cd6c1c427.gif)"style="max-width: 100%;">
-
-
+<p align="center" width="300" dir="auto">
+   <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png"><img align="center" width="200" src="https://user-images.githubusercontent.com/1561955/106762302-fda9de00-6635-11eb-99be-3ef744e60c0e.png" style="max-width: 100%;"></a>
+   </p>
