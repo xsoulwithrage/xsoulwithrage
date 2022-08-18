@@ -20,5 +20,5 @@ Mis redes sociales:
 --!>
 
 
-<img src="(https://user-images.githubusercontent.com/101188188/185451845-76b4b5ce-4bcc-42b2-88fa-eb80d35cf775.png)">
+(https://user-images.githubusercontent.com/101188188/185451845-76b4b5ce-4bcc-42b2-88fa-eb80d35cf775.png)
 
