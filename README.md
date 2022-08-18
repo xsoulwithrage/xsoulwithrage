@@ -4,12 +4,14 @@ Soy estudiante en el colegio Arturo Matte Larraín, actualmente estoy estudiando
 
 -Tengo conocimientos en HTML, CSS y JS.
 
-Los proyectos que tengo actualmente son de Coding Dojo,   
+Los proyectos que tengo actualmente son de Coding Dojo.
+
+Mis redes sociales:
+[link text itself]: http://www.instagram.com/soulwithrage/
+-Instagram
 
 
 
-
-[link text itself]: http://www.reddit.com
 - 🌱 Aprendiendo JavaScript, HTML, CSS y C#
 
 <!--
