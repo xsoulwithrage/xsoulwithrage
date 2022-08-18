@@ -19,9 +19,5 @@ Mis redes sociales:
 **xsoulwithrage/xsoulwithrage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
 
-
-<p align="center" width="300" dir="auto">
-   <a target="_blank" rel="noopener noreferrer" href="![codigos](https://user-images.githubusercontent.com/101188188/185450911-9d07db16-b26c-4077-bb6c-01975863001b.gif)
-"><img align="center" width="200" src="![codigos](https://user-images.githubusercontent.com/101188188/185450953-1537d777-f37a-46bc-b278-a350d949088e.gif)
-" style="max-width: 100%;"></a>
-   </p>
+<p align="center" dir="auto"><a href="https://xsoulwithrage.github.io" rel="nofollow"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="![asd](https://user-images.githubusercontent.com/101188188/185451562-13161afd-ca98-465f-902c-6a389cbbb565.jpg)
+" style="max-width: 100%;"></a></p>
