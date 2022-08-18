@@ -8,9 +8,9 @@ Los proyectos que tengo actualmente son de Coding Dojo.
 
 Mis redes sociales:
 
--[Instagram](https://www.instagram.com/soulwithrage/)
+- 📫 [Instagram](https://www.instagram.com/soulwithrage/)
 
--[Correo](mailto:@edson.antilef.torres@alumnos.sip.cl)
+- 📧 [Correo](mailto:@edson.antilef.torres@alumnos.sip.cl)
 
 
 - 🌱 Aprendiendo JavaScript, HTML, CSS y C#
