@@ -10,7 +10,7 @@ Mis redes sociales:
 
 -[Instagram](https://www.instagram.com/soulwithrage/)
 
--[Correo](@edson.antilef.torres@alumnos.sip.cl)
+-[Correo](mailto:@edson.antilef.torres@alumnos.sip.cl)
 
 
 - 🌱 Aprendiendo JavaScript, HTML, CSS y C#
