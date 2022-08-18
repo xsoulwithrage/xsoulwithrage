@@ -2,7 +2,7 @@
 ### Hola👋 
 Soy estudiante en el colegio Arturo Matte Larraín, actualmente estoy estudiando programación.
 
--Tengo conocimientos en HTML, CSS y JS.
+- 📈 Tengo conocimientos en HTML, CSS y JS.
 
 Los proyectos que tengo actualmente son de Coding Dojo.
 
