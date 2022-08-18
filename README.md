@@ -19,7 +19,6 @@ Mis redes sociales:
 **xsoulwithrage/xsoulwithrage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
 
-<p align="center" dir="auto">
+
 ![asd](https://user-images.githubusercontent.com/101188188/185451845-76b4b5ce-4bcc-42b2-88fa-eb80d35cf775.jpg)
 
-</p
