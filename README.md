@@ -1,4 +1,6 @@
-<img align="center" src="![codigos](https://user-images.githubusercontent.com/101188188/185449205-d2435758-b96d-4ee5-83ba-ec4f11ed9a08.gif)" alt="foto">
+<p align="left">
+<img src="![codigos](https://user-images.githubusercontent.com/101188188/185449442-ba9a6362-aca3-4ec9-9513-99ad7f062a66.gif)">
+</p>
 
 
 
