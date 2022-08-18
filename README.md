@@ -1,4 +1,4 @@
-### Edson Antilef Pablo - @soulwithrage
+### <h1 align="center">Edson Antilef Pablo - @soulwithrage</h1>
 ### Hola👋 
 Soy estudiante en el colegio Arturo Matte Larraín, actualmente estoy estudiando programación.
 
