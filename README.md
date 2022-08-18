@@ -7,11 +7,11 @@ Soy estudiante en el colegio Arturo Matte Larraín, actualmente estoy estudiando
 Los proyectos que tengo actualmente son de Coding Dojo.
 
 Mis redes sociales:
-[link text itself]: http://www.instagram.com/soulwithrage/
--Instagram
+asd
+[I'm an inline-style link](https://www.google.com)
+Instagram
 
-
-
+http://www.instagram.com/soulwithrage
 - 🌱 Aprendiendo JavaScript, HTML, CSS y C#
 
 <!--
