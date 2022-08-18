@@ -1,4 +1,4 @@
-<center>![codigos](https://user-images.githubusercontent.com/101188188/185448305-7aaaeb6e-4e07-4053-a43c-e73f098cdd5c.gif)</center>
+<h1 align="center"![codigos](https://user-images.githubusercontent.com/101188188/185448305-7aaaeb6e-4e07-4053-a43c-e73f098cdd5c.gif)</h1>
 
 
 
