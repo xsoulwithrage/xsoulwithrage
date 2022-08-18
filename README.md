@@ -1,4 +1,4 @@
-<h1 align="center">![codigos](https://user-images.githubusercontent.com/101188188/185448305-7aaaeb6e-4e07-4053-a43c-e73f098cdd5c.gif)</h1>
+<img align="center" src="![codigos](https://user-images.githubusercontent.com/101188188/185449205-d2435758-b96d-4ee5-83ba-ec4f11ed9a08.gif)" alt="foto">
 
 
 
