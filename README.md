@@ -20,3 +20,6 @@ Mis redes sociales:
 --!>
 
 
+<img align="center" width="200" src="![codigos](https://user-images.githubusercontent.com/101188188/185450624-0d9da2d1-667e-4903-90ff-691cd6c1c427.gif)"style="max-width: 100%;">
+
+
