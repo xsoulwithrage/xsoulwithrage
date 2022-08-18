@@ -1,4 +1,6 @@
 ### <h1 align="center">Edson Antilef Pablo - @soulwithrage</h1>
+<background-image: url![codigos](https://user-images.githubusercontent.com/101188188/185447988-d09ba469-cd0b-4d7a-b6ae-6a350adab98f.gif)
+();>
 ### Hola👋 
 Soy estudiante en el colegio Arturo Matte Larraín, actualmente estoy estudiando programación.
 
