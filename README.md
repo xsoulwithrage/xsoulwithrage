@@ -11,7 +11,6 @@ Mis redes sociales:
 [Instagram](https://www.instagram.com/soulwithrage/)
 
 
-http://www.instagram.com/soulwithrage
 - 🌱 Aprendiendo JavaScript, HTML, CSS y C#
 
 <!--
