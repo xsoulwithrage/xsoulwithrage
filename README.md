@@ -1,4 +1,4 @@
-### <h1 align="center">Edson Antilef Pablo - @soulwithrage</h1>
+### <h1 align="center">Edson Antilef Pablo - @soulwithrage
 ### ¡Hola! 👋 
 Soy estudiante en el colegio Arturo Matte Larraín, actualmente estoy estudiando programación.
 
@@ -13,7 +13,7 @@ Mis redes sociales:
 - 📧 [Correo](mailto:@edson.antilef.torres@alumnos.sip.cl)
 
 - 💻 [Linkedin](https://www.linkedin.com/in/edson-antilef-torres-54a459249)
-
+</h1>
 <!--
 **xsoulwithrage/xsoulwithrage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
