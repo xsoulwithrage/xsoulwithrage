@@ -8,11 +8,11 @@ Los proyectos que tengo actualmente son de Coding Dojo.
 
 Mis redes sociales:
 
-- 📫 [Instagram](https://www.instagram.com/soulwithrage/)
+- 📱 [Instagram](https://www.instagram.com/soulwithrage/)
 
 - 📧 [Correo](mailto:@edson.antilef.torres@alumnos.sip.cl)
 
-- 📫 [Linkedin](https://www.linkedin.com/in/edson-antilef-torres-54a459249)
+- 💻 [Linkedin](https://www.linkedin.com/in/edson-antilef-torres-54a459249)
 
 <!--
 **xsoulwithrage/xsoulwithrage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
