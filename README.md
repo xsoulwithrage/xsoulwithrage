@@ -17,3 +17,17 @@ Mis redes sociales:
 <!--
 **xsoulwithrage/xsoulwithrage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
+
+### <h1 align="center">Mis Habilidades</h1>
+
+HTML
+⭐⭐⭐⭐⭐⭐⭐ 7/10
+
+CSS
+⭐⭐⭐⭐⭐⭐ 6/10
+
+JS
+⭐⭐⭐ 3/10
+
+
+
