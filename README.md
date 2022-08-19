@@ -1,5 +1,5 @@
-### <h1 align="center">Edson Antilef Pablo - @soulwithrage
-### ¡Hola! 👋 
+### <h1 align="center">Edson Antilef Pablo - @soulwithrage</h1>
+### <h3>¡Hola! 👋 </h3> 
 Soy estudiante en el colegio Arturo Matte Larraín, actualmente estoy estudiando programación.
 
 - 🌱 Aprendiendo JavaScript, HTML, CSS y C#
