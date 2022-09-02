@@ -36,13 +36,16 @@ Mis redes sociales:
 ### <h1 align="center">Mis Habilidades</h1>
 
 HTML
-⭐⭐⭐⭐⭐⭐⭐ 7/10
+⭐⭐⭐⭐⭐⭐⭐⭐⭐ 9/10
 
 CSS
 ⭐⭐⭐⭐⭐⭐ 6/10
 
 JS
-⭐⭐⭐ 3/10
+⭐⭐⭐⭐ 4/10
+
+C/C++
+⭐⭐⭐⭐ 4/10
 
 
 
