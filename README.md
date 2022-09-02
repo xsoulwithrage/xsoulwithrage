@@ -27,7 +27,7 @@ Mis redes sociales:
 
 ✔ HTML / CSS / JS
 
-✔  C#
+✔  C/C++
 
 
 
