@@ -60,4 +60,4 @@ C/C++
 
 
 
-![ess](https://user-images.githubusercontent.com/101188188/196086441-39785361-d830-4306-aecf-d760a3be07c3.gif)
+
