@@ -2,7 +2,8 @@
 
 
 
-![edso](https://user-images.githubusercontent.com/101188188/196086403-f09eb897-41a0-475b-830d-057398c42473.jpeg)
+![eds](https://user-images.githubusercontent.com/101188188/196086424-c9952e57-9ebe-47c7-af71-820535b3b1de.jpeg)
+
 
 
 
@@ -59,3 +60,4 @@ C/C++
 
 
 
+![ess](https://user-images.githubusercontent.com/101188188/196086441-39785361-d830-4306-aecf-d760a3be07c3.gif)
