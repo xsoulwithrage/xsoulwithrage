@@ -1,7 +1,8 @@
 ### <h1 align="center">Edson Antilef Pablo - @soulwithrage</h1>
 
 
-![ess](https://user-images.githubusercontent.com/101188188/196086229-9a0791b1-60e8-44f3-95d5-ba1cdd06d846.gif)
+
+![edso](https://user-images.githubusercontent.com/101188188/196086403-f09eb897-41a0-475b-830d-057398c42473.jpeg)
 
 
 
