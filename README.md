@@ -1,4 +1,11 @@
 ### <h1 align="center">Edson Antilef Pablo - @soulwithrage</h1>
+
+
+![ed](https://user-images.githubusercontent.com/101188188/196085312-8e7b81aa-52f7-4bce-9f06-151b02c73ba6.jpg)
+
+
+
+
 ### <h3>¡Hola! 👋 </h3> 
 Soy estudiante en el colegio Arturo Matte Larraín, actualmente estoy estudiando programación. Me gusta jugar videojuegos y la musica, epecialmente me gusta la musica romantica, también en mis ratos libres me gusta hacer diseños en páginas web.
 
