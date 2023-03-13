@@ -48,22 +48,18 @@ Mis redes sociales:
 ### <h1 align="center">Mis Habilidades</h1>
 
 HTML
-
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐ 9/10
 
 CSS
-
 ⭐⭐⭐⭐⭐⭐ 6/10
 
 JS
 ⭐⭐⭐⭐ 4/10
 
 C/C++
-
 ⭐⭐ 2/10
 
 PYTHON 
-
 ⭐ 1/10
 
 
