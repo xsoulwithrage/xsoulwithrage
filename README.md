@@ -2,17 +2,8 @@
 
 
 
-
-
-
-
-
-
-
-
 ### <h3>¡Hola! 👋 </h3> 
-Soy estudiante en el colegio Arturo Matte Larraín, actualmente estoy estudiando programación. Me gusta jugar videojuegos y la musica, epecialmente me gusta la musica romantica, también en mis ratos libres me gusta hacer diseños en páginas web.
-
+Soy estudiante en el colegio Arturo Matte Larraín, actualmente estoy estudiando programación. Me gusta jugar videojuegos y la música, también en mis ratos libres me gusta hacer diseños en páginas web.
 
 Los proyectos que tengo actualmente son de Coding Dojo.
 
@@ -27,9 +18,6 @@ Mis redes sociales:
 <!--
 **xsoulwithrage/xsoulwithrage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
-
-
-
 
 
 
