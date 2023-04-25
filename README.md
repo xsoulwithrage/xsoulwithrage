@@ -3,7 +3,9 @@
 
 
 ### <h3>¡Hola! 👋 </h3> 
-Soy estudiante en el colegio Arturo Matte Larraín, actualmente estoy estudiando programación. Me gusta jugar videojuegos y la música, también en mis ratos libres me gusta hacer diseños en páginas web.
+Soy estudiante en el colegio Arturo Matte Larraín, actualmente estoy estudiando programación, me gusta hacer diseños en páginas web y crear host de servers. También quiero crear mi propio servicio.
+
+
 
 Los proyectos que tengo actualmente son de Coding Dojo.
 
@@ -14,6 +16,5 @@ Mis redes sociales:
 - 📧 [Correo](mailto:@edson.antilef.torres@alumnos.sip.cl)
 
 - 💻 [Linkedin](https://www.linkedin.com/in/edson-antilef-torres-54a459249)
-</h1>
 
 
