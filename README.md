@@ -15,41 +15,5 @@ Mis redes sociales:
 
 - 💻 [Linkedin](https://www.linkedin.com/in/edson-antilef-torres-54a459249)
 </h1>
-<!--
-**xsoulwithrage/xsoulwithrage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---!>
-
-
-
-
-### <h1 align="center">Estudios / Cursos </h1>
-
-✔ HTML / CSS 
-
-✔  C/C++
-
-✔  JS
-
-
-
-
-### <h1 align="center">Mis Habilidades</h1>
-
-HTML
-⭐⭐⭐⭐⭐⭐⭐⭐⭐ 9/10
-
-CSS
-⭐⭐⭐⭐⭐⭐ 6/10
-
-JS
-⭐⭐⭐⭐⭐ 5/10
-
-C/C++
-⭐⭐⭐⭐ 4/10
-
-PYTHON 
-⭐⭐⭐⭐⭐ 5/10
-
-
 
 
