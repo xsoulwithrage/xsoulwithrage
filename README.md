@@ -3,7 +3,8 @@
 
 
 ### <h3>¡Hola! 👋 </h3> 
-Soy estudiante en el colegio Arturo Matte Larraín, actualmente estoy estudiando programación, me gusta hacer diseños en páginas web y crear host de servers. También quiero crear mi propio servicio.
+Soy estudiante en el colegio Arturo Matte Larraín, actualmente estoy estudiando programación, lo que me gustaría en el futuro es crear host de servers,También quiero crear mi propia empresa.
+
 
 
 
