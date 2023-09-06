@@ -8,7 +8,7 @@ Soy estudiante en el colegio Arturo Matte Larraín, actualmente estoy estudiando
 
 
 
-Los proyectos que tengo actualmente son de Coding Dojo.
+Los trabajos que tengo actualmente son de Coding Dojo.
 
 Mis redes sociales:
 
