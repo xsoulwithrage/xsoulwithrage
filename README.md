@@ -3,7 +3,7 @@
 
 
 ### <h3>¡Hola! 👋 </h3> 
-Soy programador, actualmente estoy estudiando igenieria en informatica, lo que me gustaría en el futuro es tener mi propia empresa.
+Soy programador, actualmente estoy estudiando igenieria en informatica lo que me gustaría en el futuro es tener mi propia empresa.
 
 
 
